@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Muhammad Usman aka @usman196298
 - 👀 I’m interested in coding and all that stuff
-- 🌱 I’m currently learning React JS, Python Django , postgre SQL etc
+- 🌱 I’m currently learning React JS, Ruby on Rails & postgre SQL etc
